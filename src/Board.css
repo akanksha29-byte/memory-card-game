@@ -1,0 +1,9 @@
+.Board {
+  width: 800px;
+  margin: auto;
+}
+
+.Board :hover {
+  background-color: #f72585;
+  transition: 0.7s;
+}
